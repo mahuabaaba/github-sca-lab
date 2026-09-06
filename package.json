@@ -11,6 +11,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "lodash": "4.17.20"
+    "lodash": "4.17.20",
+    "minimist": "0.0.8"
   }
 }
