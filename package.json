@@ -1,0 +1,16 @@
+{
+  "name": "github-sca-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Disposable repository for testing GitHub dependency and security features.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
